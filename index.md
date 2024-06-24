@@ -37,5 +37,4 @@ Participants will deploy their own LLM model in the de.NBI cloud by a step-by-st
 **Costs:** registration is free of charge.
 
 
-
-We will continue to update this website until the start of the hackathon
+We will continue to update this website until the start of the summer school.
