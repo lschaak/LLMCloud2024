@@ -2,7 +2,6 @@
 layout: page
 title: Home
 ---
-<img width="1239" alt="dekcd" src="https://github.com/lschaak/LLMCloud2024/main/3d-abstract-particl.2e16d0ba.scale-50.fill-2000x400-c100.jpg">
 
 <p align="center">
 ⬤ <b>de.KCD Summer School</b> ⬤ <b> Deploying LLMs in the cloud </b>  ⬤ <b> 16-20 September 2024</b> ⬤ <b> online </b> ⬤ 
