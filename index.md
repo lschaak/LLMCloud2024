@@ -24,7 +24,7 @@ Participants will deploy their own LLM model in the de.NBI cloud by a step-by-st
 
 ### Organisational details
 
-**Target audience:** Everyone 
+**Target audience:** Everyone with an interest in LLMs and clouds and basic knowledge in IT.
 
 **Dates:** Monday 16th - Friday 20th December 2023
 
