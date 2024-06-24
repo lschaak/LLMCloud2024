@@ -37,8 +37,6 @@ Participants will deploy their own LLM model in the de.NBI cloud by a step-by-st
 
 **Costs:** registration is free of charge.
 
-### Code of Conduct
-The ELIXIR Germany Code of Conduct has been created so all participants at ELIXIR Germany events organized can interact with each other in a respectful and safe environment, and have avenues to turn to in case they believe there has been a breach to this Code of Conduct.
-<i>Be excellent to each other.</i>
+
 
 We will continue to update this website until the start of the hackathon
