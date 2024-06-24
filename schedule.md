@@ -5,7 +5,6 @@ title: Schedule
 
 The summer school will take place from **Monday 16th Sep - Friday 20th Sep 2024**. The timing of this event will be **Central European Time (CET)**.
 
---->
 ### Day 1: Monday 16th September 2024
 
 
