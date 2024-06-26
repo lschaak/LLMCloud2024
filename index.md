@@ -24,7 +24,7 @@ Participants will deploy their own LLM model in the de.NBI cloud by a step-by-st
 
 ### Organisational details
 
-**Target audience:** Everyone with an interest in LLMs and clouds and basic knowledge in IT.
+**Target audience:** Students and researchers of all levels with an interest in LLMs and clouds. Please be aware that you will be require basic familiarity with operating on Linux Terminal to actively follow the workshop.
 
 **Dates:** Monday 16th - Friday 20th December 2023
 
